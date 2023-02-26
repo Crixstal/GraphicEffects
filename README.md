@@ -1,6 +1,8 @@
 ![shool_year](https://img.shields.io/badge/shool_year-second-blue)
 ![duration](https://img.shields.io/badge/duration-3_weeks-blue)  
 
+<img src="https://user-images.githubusercontent.com/91843760/221444139-cb844cc6-f889-40ed-8dd6-5833b888df87.png" width=25% height=25%><img src="https://user-images.githubusercontent.com/91843760/221444137-040e392a-935f-460f-b365-b69d7a9956ef.png" width=25% height=25%><img src="https://user-images.githubusercontent.com/91843760/221444138-2e3fc6ce-1582-43ce-959f-585d0ce94962.png" width=25% height=25%>
+
 ## **Informations**
 
 Concerning demo_shader (13/13), you must modify the light position or disable/enable it to apply the correct colors.  
@@ -18,7 +20,7 @@ vec3 diffuseColor  = gDefaultMaterial.diffuse * lightResult.diffuse; // * textur
 vec3 emissiveColor = gDefaultMaterial.emission; // + texture(uEmissiveTexture, vUV).rgb;
 ```
 
-## **Implemented features**
+## **Implemented effects**
 
 Feature                            | Files (.cpp / .h)
 -------                            | ------
