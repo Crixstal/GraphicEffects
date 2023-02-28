@@ -5,6 +5,10 @@
 
 ## **Informations**
 
+This project allowed us to discover and implement several graphic effects with modern OpenGL.
+
+## **Remarks**
+
 Concerning demo_shader (13/13), you must modify the light position or disable/enable it to apply the correct colors.  
 Same goes for demo_npr_toon (10/13).
 
